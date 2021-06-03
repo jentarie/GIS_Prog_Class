@@ -1,0 +1,498 @@
+Rank,Name,POP2010,AREAkm,AREAmi
+1,"New York--Newark, NY—NJ—CT",18351295,8936.00,3450.20
+2,"Los Angeles--Long Beach--Anaheim, CA",12150996,4496.30,1736.00
+3,"Chicago, IL—IN",8608208,6326.70,2442.80
+4,"Miami, FL",5502379,3208.00,1238.60
+5,"Philadelphia, PA—NJ—DE—MD",5441567,5131.70,1981.40
+6,"Dallas--Fort Worth--Arlington, TX",5121892,4607.90,1779.10
+7,"Houston, TX",4944332,4299.40,1660.00
+8,"Washington, DC—VA—MD",4586770,3423.30,1321.70
+9,"Atlanta, GA",4515419,6851.40,2645.40
+10,"Boston, MA—NH—RI",4181019,4852.20,1873.50
+11,"Detroit, MI",3734090,3463.20,1337.20
+12,"Phoenix--Mesa, AZ",3629114,2969.60,1146.60
+13,"San Francisco--Oakland, CA",3281212,1356.20,523.60
+14,"Seattle, WA",3059393,2616.70,1010.30
+15,"San Diego, CA",2956746,1896.90,732.40
+16,"Minneapolis--St. Paul, MN—WI",2650890,2646.50,1021.80
+17,"Tampa--St. Petersburg, FL",2441770,2478.60,957.00
+18,"Denver--Aurora, CO",2374203,1730.00,668.00
+19,"Baltimore, MD",2203663,1857.10,717.00
+20,"St. Louis, MO—IL",2150706,2392.20,923.60
+21,"San Juan, PR",2148346,2244.70,866.70
+22,"Riverside--San Bernardino, CA",1932666,1411.50,545.00
+23,"Las Vegas--Henderson, NV",1886011,1079.60,416.80
+24,"Portland, OR—WA",1849898,1358.10,524.40
+25,"Cleveland, OH",1780673,1999.40,772.00
+26,"San Antonio, TX",1758210,1546.50,597.10
+27,"Pittsburgh, PA",1733853,2344.40,905.20
+28,"Sacramento, CA",1723634,1219.80,471.00
+29,"San Jose, CA",1664496,740.70,286.00
+30,"Cincinnati, OH—KY—IN",1624827,2040.20,787.70
+31,"Kansas City, MO—KS",1519417,1755.60,677.80
+32,"Orlando, FL",1510516,1548.00,597.70
+33,"Indianapolis, IN",1487483,1827.90,705.70
+34,"Virginia Beach, VA",1439666,1335.00,515.50
+35,"Milwaukee, WI",1376476,1413.20,545.60
+36,"Columbus, OH",1368035,1322.10,510.50
+37,"Austin, TX",1362416,1354.70,523.00
+38,"Charlotte, NC—SC",1249442,1920.50,741.50
+39,"Providence, RI—MA",1190956,1411.70,545.10
+40,"Jacksonville, FL",1065219,1373.60,530.40
+41,"Memphis, TN—MS—AR",1060061,1288.00,497.30
+42,"Salt Lake City--West Valley City, UT",1021243,719.70,277.90
+43,"Louisville/Jefferson County, KY—IN",972546,1234.70,476.70
+44,"Nashville-Davidson, TN",969587,1459.40,563.50
+45,"Richmond, VA",953556,1274.70,492.20
+46,"Buffalo, NY",935906,984.00,379.90
+47,"Hartford, CT",924859,1337.10,516.30
+48,"Bridgeport--Stamford, CT—NY",923311,1207.50,466.20
+49,"New Orleans, LA",899703,651.10,251.40
+50,"Raleigh, NC",884891,1342.00,518.10
+51,"Oklahoma City, OK",861505,1063.50,410.60
+52,"Tucson, AZ",843168,915.50,353.50
+53,"El Paso, TX—NM",803086,649.00,250.60
+54,"Urban Honolulu, HI",802459,440.70,170.20
+55,"Birmingham, AL",749495,1372.40,529.90
+56,"Albuquerque, NM",741318,649.00,250.60
+57,"McAllen, TX",728825,927.20,358.00
+58,"Omaha, NE—IA",725008,702.40,271.20
+59,"Dayton, OH",724091,910.20,351.40
+60,"Rochester, NY",720572,840.40,324.50
+61,"Allentown, PA—NJ",664651,896.90,346.30
+62,"Tulsa, OK",655479,870.00,335.90
+63,"Fresno, CA",654628,443.60,171.30
+64,"Sarasota--Bradenton, FL",643260,846.10,326.70
+65,"Springfield, MA—CT",621300,902.80,348.60
+66,"Concord, CA",615968,527.70,203.80
+67,"Albany--Schenectady, NY",594962,765.90,295.70
+68,"Baton Rouge, LA",594309,950.00,366.80
+69,"Mission Viejo--Lake Forest--San Clemente, CA",583681,389.90,150.50
+70,"Grand Rapids, MI",569935,726.70,280.60
+71,"Akron, OH",569499,842.70,325.40
+72,"New Haven, CT",562839,792.80,306.10
+73,"Colorado Springs, CO",559409,486.50,187.80
+74,"Knoxville, TN",558696,1134.80,438.20
+75,"Columbia, SC",549777,984.30,380.00
+76,"Charleston--North Charleston, SC",548404,759.80,293.40
+77,"Ogden--Layton, UT",546026,563.50,217.60
+78,"Cape Coral, FL",530290,855.50,330.30
+79,"Bakersfield, CA",523994,358.60,138.40
+80,"Toledo, OH—MI",507643,622.70,240.40
+81,"Worcester, MA—CT",486514,787.60,304.10
+82,"Provo--Orem, UT",482819,437.60,169.00
+83,"Wichita, KS",472870,556.20,214.70
+84,"Palm Bay--Melbourne, FL",452791,600.80,232.00
+85,"Des Moines, IA",450070,519.50,200.60
+86,"Harrisburg, PA",444474,672.60,259.70
+87,"Murrieta--Temecula--Menifee, CA",441546,418.90,161.70
+88,"Little Rock, AR",431388,669.00,258.30
+89,"Poughkeepsie--Newburgh, NY—NJ",423566,847.30,327.10
+90,"Syracuse, NY",412317,504.90,194.90
+91,"Lancaster, PA",402004,641.10,247.50
+92,"Madison, WI",401661,391.10,151.00
+93,"Greenville, SC",400492,829.40,320.30
+94,"Reno, NV—CA",392141,425.70,164.40
+95,"Winston-Salem, NC",391024,835.50,322.60
+96,"Spokane, WA",387847,425.30,164.20
+97,"Youngstown, OH—PA",387550,624.40,241.10
+98,"Augusta-Richmond County, GA—SC",386787,672.20,259.50
+99,"Scranton-Wilkes-Barre, Pennsylvania",381502,442.30,170.80
+100,"Chattanooga, TN—GA",381112,777.30,300.10
+101,"Port St. Lucie, FL",376047,539.00,208.10
+102,"Stockton, CA",370583,239.60,92.50
+103,"Oxnard, CA",367260,218.60,84.40
+104,"Denton--Lewisville, TX",366174,376.00,145.20
+105,"Modesto, CA",358172,238.00,91.90
+106,"Flint, MI",356218,611.00,235.90
+107,"Jackson, MS",351478,628.00,242.50
+108,"Boise, ID",349684,346.60,133.80
+109,"Palm Coast--Daytona Beach--Port Orange, FL",349064,464.50,179.30
+110,"Durham, NC",347602,470.70,181.70
+111,"Indio--Cathedral City, CA",345580,372.40,143.80
+112,"Lancaster--Palmdale, CA",341219,299.10,115.50
+113,"Pensacola, FL—AL",340067,602.50,232.60
+114,"Victorville--Hesperia, CA",328454,432.10,166.80
+115,"Mobile, AL",326183,576.90,222.80
+116,"Corpus Christi, TX",320069,311.50,120.30
+117,"Kissimmee, FL",314071,409.90,158.30
+118,"Lansing, MI",313532,409.70,158.20
+119,"Fort Wayne, IN",313492,445.80,172.10
+120,"Greensboro, NC",311810,479.70,185.20
+121,"Bonita Springs, FL",310298,484.20,187.00
+122,"Fayetteville, NC",310282,512.90,198.00
+123,"Santa Rosa, CA",308231,253.80,98.00
+124,"Aguadilla--Isabela--San Sebastian, PR",306196,619.70,239.30
+125,"Ann Arbor, MI",306022,413.30,159.60
+126,"Shreveport, LA",298317,479.70,185.20
+127,"Rockford, IL",296863,396.30,153.00
+128,"Trenton, NJ",296668,273.40,105.60
+129,"Fayetteville--Springdale--Rogers, AR—MO",295083,486.20,187.70
+130,"Round Lake Beach--McHenry--Grayslake, IL—WI",290373,395.20,152.60
+131,"Lexington-Fayette, KY",290263,226.70,87.50
+132,"Huntsville, AL",286692,543.30,209.80
+133,"Asheville, NC",280648,686.00,264.90
+134,"Davenport, IA—IL",280051,358.00,138.20
+135,"Canton, OH",279245,431.10,166.50
+136,"South Bend, IN—MI",278165,417.20,161.10
+137,"Antioch, CA",277634,210.70,81.40
+138,"Springfield, MO",273724,368.60,142.30
+139,"Peoria, IL",266921,371.70,143.50
+140,"Reading, PA",266254,269.00,103.80
+141,"Fort Collins, CO",264465,284.00,109.70
+142,"Montgomery, AL",263907,397.80,153.60
+143,"Lakeland, FL",262596,378.20,146.00
+144,"Savannah, GA",260677,428.60,165.50
+145,"Lincoln, NE",258719,229.10,88.50
+146,"Santa Clarita, CA",258653,198.70,76.70
+147,"Columbus, GA—AL",253602,380.80,147.10
+148,"Lafayette, LA",252720,462.60,178.60
+149,"Anchorage, AK",251243,220.10,85.00
+150,"Atlantic City, NJ",248402,324.10,125.10
+151,"Eugene, OR",247421,224.70,86.80
+152,"Barnstable Town, MA",246695,718.10,277.30
+153,"Tallahassee, FL",240223,327.60,126.50
+154,"Conroe--The Woodlands, TX",239938,345.30,133.30
+155,"Lubbock, TX",237356,249.80,96.50
+156,"Salem, OR",236632,196.60,75.90
+157,"Laredo, TX",235730,170.10,65.70
+158,"York, PA",232045,342.40,132.20
+159,"Evansville, IN—KY",229351,307.80,118.80
+160,"Nashua, NH—MA",226400,472.10,182.30
+161,"Wilmington, NC",219957,346.50,133.80
+162,"Visalia, CA",219454,164.30,63.40
+163,"Killeen, TX",217630,219.70,84.80
+164,"Brownsville, TX",217585,211.20,81.50
+165,"Appleton, WI",216154,268.80,103.80
+166,"Myrtle Beach--Socastee, SC—NC",215304,493.10,190.40
+167,"Concord, NC",214881,466.70,180.20
+168,"Thousand Oaks, CA",214811,221.80,85.60
+169,"Aberdeen--Bel Air South--Bel Air North, MD",213751,339.60,131.10
+170,"Hickory, NC",212195,677.60,261.60
+171,"Kennewick--Pasco, WA",210975,265.40,102.50
+172,"Roanoke, VA",210111,321.60,124.20
+173,"Kalamazoo, MI",209703,341.10,131.70
+174,"Norwich--New London, CT—RI",209190,393.70,152.00
+175,"Gulfport, MS",208948,426.10,164.50
+176,"Green Bay, WI",206520,272.00,105.00
+177,"Portland, ME",203914,352.00,135.90
+178,"Huntington, WV—KY—OH",202637,337.60,130.30
+179,"Winter Haven, FL",201289,348.00,134.40
+180,"Bremerton, WA",198979,353.50,136.50
+181,"Avondale--Goodyear, AZ",197041,227.70,87.90
+182,"Amarillo, TX",196651,210.20,81.20
+183,"Erie, PA",196611,213.00,82.20
+184,"Santa Barbara, CA",195861,144.60,55.90
+185,"Waterbury, CT",194535,233.80,90.30
+186,"Fort Walton Beach--Navarre--Wright, FL",191917,312.10,120.50
+187,"Gainesville, FL",187781,225.40,87.00
+188,"Salinas, CA",184809,126.80,49.00
+189,"Hagerstown, MD—WV—PA",182696,345.30,133.30
+190,"Deltona, FL",182169,249.80,96.50
+191,"Lorain--Elyria, OH",180956,259.50,100.20
+192,"Spartanburg, SC",180786,492.20,190.00
+193,"Cedar Rapids, IA",177844,216.10,83.50
+194,"Fargo, ND—MN",176676,182.00,70.30
+195,"Olympia--Lacey, WA",176617,273.50,105.60
+196,"Waco, TX",172378,233.80,90.30
+197,"College Station--Bryan, TX",171345,185.00,71.40
+198,"McKinney, TX",170030,191.90,74.10
+199,"North Port--Port Charlotte, FL",169541,308.10,118.90
+200,"Gastonia, NC—SC",169495,359.10,138.60
+201,"Danbury, CT—NY",168136,341.00,131.70
+202,"High Point, NC",166485,292.70,113.00
+203,"Vallejo, CA",165074,108.80,42.00
+204,"Santa Cruz, CA",163703,151.10,58.40
+205,"Hemet, CA",163379,127.20,49.10
+206,"Springfield, IL",161316,239.10,92.30
+207,"Muskegon, MI",161280,290.80,112.30
+208,"Clarksville, TN—KY",158655,283.80,109.60
+209,"Manchester, NH",158377,223.10,86.20
+210,"Binghamton, NY—PA",158084,192.00,74.10
+211,"Ocala, FL",156909,290.30,112.10
+212,"Sioux Falls, SD",156777,166.20,64.20
+213,"Medford, OR",154081,167.60,64.70
+214,"Charleston, WV",153199,254.40,98.20
+215,"Port Arthur, TX",153150,273.40,105.60
+216,"Nampa, ID",151499,179.70,69.40
+217,"Topeka, KS",150003,206.10,79.60
+218,"Ponce, PR",149539,114.30,44.10
+219,"New Bedford, MA",149443,142.70,55.10
+220,"Sebastian--Vero Beach South--Florida Ridge, FL",149422,250.30,96.70
+221,"Spring Hill, FL",148220,297.80,115.00
+222,"Beaumont, TX",147922,237.50,91.70
+223,"Lafayette, IN",147725,166.00,64.10
+224,"Champaign, IL",145361,121.50,46.90
+225,"Marysville, WA",145140,211.90,81.80
+226,"Houma, LA",144875,236.80,91.40
+227,"Elkhart, IN—MI",143592,237.90,91.90
+228,"Lake Charles, LA",143440,327.70,126.50
+229,"Panama City, FL",143280,238.00,91.90
+230,"Frederick, MD",141576,190.10,73.40
+231,"Fredericksburg, VA",141238,201.50,77.80
+232,"Arecibo, PR",139171,217.70,84.10
+233,"Tuscaloosa, AL",139114,231.80,89.50
+234,"Macon, GA",137570,253.90,98.00
+235,"Merced, CA",136969,123.10,47.50
+236,"Pueblo, CO",136550,192.20,74.20
+237,"Harlingen, TX",135663,214.30,82.80
+238,"Yuma, AZ—CA",135267,152.30,58.80
+239,"Racine, WI",133700,128.00,49.40
+240,"Fairfield, CA",133683,102.20,39.50
+241,"Murfreesboro, TN",133228,200.30,77.30
+242,"Warner Robins, GA",133109,260.60,100.60
+243,"Bloomington--Normal, IL",132600,127.40,49.20
+244,"Leesburg--Eustis--Tavares, FL",131337,244.60,94.40
+245,"Gainesville, GA",130846,327.00,126.30
+246,"Santa Maria, CA",130447,75.40,29.10
+247,"Tyler, TX",130247,233.70,90.20
+248,"Yakima, WA",129534,155.00,59.80
+249,"Athens-Clarke County, GA",128754,254.80,98.40
+250,"Las Cruces, NM",128600,167.60,64.70
+251,"Grand Junction, CO",128124,204.10,78.80
+252,"Odessa, TX",126405,152.60,58.90
+253,"Saginaw, MI",126265,184.40,71.20
+254,"Simi Valley, CA",125206,81.40,31.40
+255,"Columbia, MO",124748,160.10,61.80
+256,"Kenosha, WI—IL",124064,132.60,51.20
+257,"Fort Smith, AR—OK",122947,183.30,70.80
+258,"Mauldin--Simpsonville, SC",120577,216.40,83.60
+259,"Johnson City, TN",120415,284.70,109.90
+260,"Duluth, MN—WI",120378,182.50,70.50
+261,"Burlington, NC",119911,234.20,90.40
+262,"South Lyon--Howell, MI",119509,266.20,102.80
+263,"San German--Cabo Rojo--Sabana Grande, PR",118199,247.30,95.50
+264,"Greeley, CO",117825,106.80,41.20
+265,"Midland, TX",117807,137.00,52.90
+266,"Greenville, NC",117798,168.90,65.20
+267,"Redding, CA",117731,184.00,71.10
+268,"Utica, NY",117328,161.60,62.40
+269,"Leominster--Fitchburg, MA",116960,168.40,65.00
+270,"Yuba City, CA",116719,100.10,38.70
+271,"Lynchburg, VA",116636,230.00,88.80
+272,"Monroe, LA",116533,212.20,81.90
+273,"Billings, MT",114773,137.20,53.00
+274,"Boulder, CO",114591,84.10,32.50
+275,"Bellingham, WA",114473,124.60,48.10
+276,"Seaside--Monterey, CA",114237,100.20,38.70
+277,"Kailua (Honolulu County)--Kaneohe, HI",113682,101.10,39.00
+278,"Waterloo, IA",113418,161.20,62.20
+279,"Lady Lake--The Villages, FL",112991,184.10,71.10
+280,"Dover, DE",110769,191.70,74.00
+281,"St. Cloud, MN",110621,130.10,50.30
+282,"Abilene, TX",110421,141.80,54.70
+283,"Waldorf, MD",109919,176.10,68.00
+284,"Mayagüez, PR",109572,139.20,53.70
+285,"Burlington, VT",108740,159.90,61.80
+286,"Bloomington, IN",108657,116.00,44.80
+287,"Pottstown, PA",107682,204.20,78.80
+288,"Rochester, MN",107677,131.00,50.60
+289,"El Centro--Calexico, CA",107672,77.70,30.00
+290,"Iowa City, IA",106621,118.00,45.60
+291,"Kingsport, TN—VA",106571,294.10,113.60
+292,"Sioux City, IA—NE—SD",106494,140.80,54.40
+293,"Texas City, TX",106383,196.90,76.00
+294,"Jacksonville, NC",105419,184.80,71.30
+295,"Rock Hill, SC",104996,247.70,95.60
+296,"Norman, OK",103898,116.20,44.90
+297,"Eau Claire, WI",102852,178.70,69.00
+298,"La Crosse, WI—MN",100868,132.10,51.00
+299,"Holland, MI",99941,153.40,59.20
+300,"Turlock, CA",99904,66.80,25.80
+301,"Wichita Falls, TX",99437,130.40,50.40
+302,"Longview, TX",98884,215.10,83.00
+303,"Gilroy--Morgan Hill, CA",98413,117.70,45.40
+304,"Coeur d'Alene, ID",98378,122.30,47.20
+305,"St. George, UT",98370,116.30,44.90
+306,"Chico, CA",98176,89.10,34.40
+307,"Salisbury, MD—DE",98081,183.10,70.70
+308,"Middletown, OH",97503,145.30,56.10
+309,"Albany, GA",95779,183.50,70.80
+310,"Vineland, NJ",95259,160.30,61.90
+311,"Logan, UT",94983,113.80,43.90
+312,"Lawton, OK",94457,114.20,44.10
+313,"Decatur, IL",93863,153.30,59.20
+314,"Vacaville, CA",93141,71.00,27.40
+315,"San Angelo, TX",92984,120.90,46.70
+316,"Terre Haute, IN",92742,138.40,53.50
+317,"Charlottesville, VA",92359,89.50,34.60
+318,"Slidell, LA",91151,151.80,58.60
+319,"Yauco, PR",90899,120.60,46.60
+320,"Longmont, CO",90897,67.90,26.20
+321,"Idaho Falls, ID",90733,115.30,44.50
+322,"Muncie, IN",90580,120.90,46.70
+323,"Temple, TX",90390,140.10,54.10
+324,"Jackson, MI",90057,149.40,57.70
+325,"Florence, SC",89557,184.00,71.10
+326,"Santa Fe, NM",89284,137.50,53.10
+327,"Mandeville--Covington, LA",88925,169.90,65.60
+328,"Blacksburg, VA",88542,132.60,51.20
+329,"Portsmouth, NH—ME",88200,240.00,92.70
+330,"Anderson, IN",88133,171.10,66.10
+331,"Dover--Rochester, NH—ME",88087,172.00,66.40
+332,"Lawrence, KS",88053,78.80,30.40
+333,"Hanford, CA",87941,71.90,27.70
+334,"Tracy, CA",87569,57.60,22.30
+335,"State College, PA",87454,74.70,28.80
+336,"Port Huron, MI",87106,156.60,60.40
+337,"Springfield, OH",85256,126.80,49.00
+338,"Dalton, GA",85239,209.30,80.80
+339,"Fajardo, PR",85225,131.60,50.80
+340,"Lee's Summit, MO",85081,107.00,41.30
+341,"Prescott Valley--Prescott, AZ",84744,132.00,51.00
+342,"Napa, CA",83913,66.90,25.80
+343,"Alton, IL—MO",83890,141.90,54.80
+344,"Bend, OR",83794,102.90,39.70
+345,"Manteca, CA",83578,56.50,21.80
+346,"Alexandria, LA",82804,169.80,65.50
+347,"Joplin, MO",82775,166.80,64.40
+348,"Missoula, MT",82157,117.10,45.20
+349,"Bismarck, ND",81955,100.40,38.80
+350,"Kankakee, IL",81926,96.20,37.20
+351,"Livermore, CA",81624,63.40,24.50
+352,"Rapid City, SD",81251,109.40,42.30
+353,"Wheeling, WV—OH",81249,121.80,47.00
+354,"St. Joseph, MO—KS",81176,108.40,41.90
+355,"Homosassa Springs--Beverly Hills--Citrus Springs, FL",80962,234.30,90.50
+356,"Juana Díaz, PR",80928,123.80,47.80
+357,"Hattiesburg, MS",80358,178.70,69.00
+358,"Guayama, PR",80155,105.50,40.70
+359,"Altoona, PA",79930,96.80,37.40
+360,"Anniston--Oxford, AL",79796,224.70,86.80
+361,"Lafayette--Louisville--Erie, CO",79407,102.40,39.50
+362,"Madera, CA",78413,58.00,22.40
+363,"Battle Creek, MI",78393,137.30,53.00
+364,"Bowling Green, KY",78306,117.60,45.40
+365,"Texarkana--Texarkana, TX—AR",78162,166.80,64.40
+366,"Lebanon, PA",77086,116.70,45.10
+367,"Valdosta, GA",77085,144.30,55.70
+368,"Florence, AL",77074,160.90,62.10
+369,"Newark, OH",76068,109.10,42.10
+370,"Anderson, SC",75702,191.90,74.10
+371,"Williamsburg, VA",75689,144.80,55.90
+372,"Mansfield, OH",75250,130.30,50.30
+373,"Lake Jackson--Angleton, TX",74830,108.00,41.70
+374,"Auburn, AL",74741,129.30,49.90
+375,"Wausau, WI",74632,121.40,46.90
+376,"Oshkosh, WI",74495,79.80,30.80
+377,"Cheyenne, WY",73588,91.00,35.10
+378,"Watsonville, CA",73534,59.20,22.80
+379,"Elizabethtown--Radcliff, KY",73467,147.50,57.00
+380,"Sumter, SC",73107,170.10,65.70
+381,"Lima, OH",72852,135.60,52.40
+382,"Davis, CA",72794,36.60,14.10
+383,"Westminster--Eldersburg, MD",72714,149.40,57.70
+384,"Flagstaff, AZ",71957,90.20,34.80
+385,"Jackson, TN",71880,132.50,51.10
+386,"Camarillo, CA",71772,57.00,22.00
+387,"Florida--Imbery--Barceloneta, PR",71747,118.60,45.80
+388,"Sheboygan, WI",71313,86.60,33.40
+389,"Weirton--Steubenville, WV—OH—PA",70889,130.80,50.50
+390,"Bay City, MI",70585,104.40,40.30
+391,"Owensboro, KY",70543,87.60,33.80
+392,"Decatur, AL",70436,151.00,58.30
+393,"Morgantown, WV",70350,97.10,37.50
+394,"Porterville, CA",70272,53.10,20.50
+395,"Pocatello, ID",69809,80.30,31.00
+396,"Janesville, WI",69658,79.70,30.80
+397,"Bristol--Bristol, TN—VA",69501,165.50,63.90
+398,"Winchester, VA",69449,96.30,37.20
+399,"St. Augustine, FL",69173,111.50,43.10
+400,"Johnstown, PA",69014,100.00,38.60
+401,"Hilton Head Island, SC",68998,175.10,67.60
+402,"Dothan, AL",68781,143.70,55.50
+403,"Lodi, CA",68738,41.20,15.90
+404,"DeKalb, IL",68545,66.80,25.80
+405,"West Bend, WI",68444,99.70,38.50
+406,"Rocky Mount, NC",68243,119.00,46.00
+407,"Elmira, NY",67983,97.90,37.80
+408,"Carbondale, IL",67821,126.10,48.70
+409,"Dubuque, IA—IL",67818,87.50,33.80
+410,"Hammond, LA",67629,198.50,76.60
+411,"Parkersburg, WV—OH",67229,109.80,42.40
+412,"Wenatchee, WA",67227,81.30,31.40
+413,"Harrisonburg, VA",66784,84.30,32.60
+414,"Cleveland, TN",66777,141.40,54.60
+415,"Zephyrhills, FL",66609,112.70,43.50
+416,"Hanover, PA",66301,93.50,36.10
+417,"Monessen--California, PA",66086,115.80,44.70
+418,"Michigan City--La Porte, IN—MI",66025,100.90,39.00
+419,"Glens Falls, NY",65443,107.60,41.60
+420,"Jonesboro, AR",65419,121.60,47.00
+421,"Conway, AR",65277,102.80,39.70
+422,"Great Falls, MT",65207,80.60,31.10
+423,"El Paso de Robles (Paso Robles)--Atascadero, CA",65088,81.40,31.40
+424,"Casper, WY",64548,78.60,30.30
+425,"Fairbanks, AK",64513,142.80,55.10
+426,"Gadsden, AL",64172,186.60,72.00
+427,"Saratoga Springs, NY",64100,117.80,45.50
+428,"Petaluma, CA",64078,55.20,21.30
+429,"Twin Rivers--Hightstown, NJ",64037,91.30,35.20
+430,"Beckley, WV",64022,157.90,61.00
+431,"Longview, WA—OR",63952,85.10,32.90
+432,"Beloit, WI—IL",63835,89.00,34.40
+433,"Los Lunas, NM",63758,179.40,69.30
+434,"Victoria, TX",63683,75.20,29.00
+435,"Mount Vernon, WA",62966,89.30,34.50
+436,"Corvallis, OR",62433,54.70,21.10
+437,"Kokomo, IN",62182,93.90,36.30
+438,"Sherman, TX",61900,93.10,35.90
+439,"Sebring--Avon Park, FL",61625,119.60,46.20
+440,"Grand Forks, ND—MN",61270,63.30,24.40
+441,"Bangor, ME",61210,110.10,42.50
+442,"Goldsboro, NC",61054,137.00,52.90
+443,"Benton Harbor--St. Joseph--Fair Plain, MI",61022,120.90,46.70
+444,"Rome, GA",60851,123.50,47.70
+445,"Ames, IA",60438,60.20,23.20
+446,"Lewiston, ME",59397,91.70,35.40
+447,"San Luis Obispo, CA",59219,52.90,20.40
+448,"Pittsfield, MA",59124,86.80,33.50
+449,"Morristown, TN",59036,155.00,59.80
+450,"Midland, MI",59014,116.20,44.90
+451,"Lexington Park--California--Chesapeake Ranch Estates, MD",58875,129.30,49.90
+452,"Jefferson City, MO",58533,103.60,40.00
+453,"Middletown, NY",58381,81.10,31.30
+454,"Carson City, NV",58079,59.80,23.10
+455,"Watertown, NY",57840,106.00,40.90
+456,"Mankato, MN",57584,68.30,26.40
+457,"Kingston, NY",57442,110.90,42.80
+458,"Daphne--Fairhope, AL",57383,143.10,55.30
+459,"Albany, OR",56997,62.10,24.00
+460,"Hazleton, PA",56827,80.90,31.20
+461,"Staunton--Waynesboro, VA",56611,98.80,38.10
+462,"Williamsport, PA",56142,68.60,26.50
+463,"Kahului, HI",55934,43.20,16.70
+464,"Walla Walla, WA—OR",55805,71.70,27.70
+465,"Woodland, CA",55513,31.60,12.20
+466,"Hot Springs, AR",55121,116.40,44.90
+467,"Columbus, IN",54933,70.60,27.30
+468,"Fond du Lac, WI",54901,74.70,28.90
+469,"Manhattan, KS",54622,53.60,20.70
+470,"Titusville, FL",54386,77.90,30.10
+471,"Delano, CA",54372,25.70,9.90
+472,"East Stroudsburg, PA—NJ",54316,134.90,52.10
+473,"Ithaca, NY",53661,63.70,24.60
+474,"Bloomsburg--Berwick, PA",53618,84.70,32.70
+475,"Pine Bluff, AR",53495,96.30,37.20
+476,"Lake Havasu City, AZ",53427,76.50,29.50
+477,"Farmington, NM",53049,90.40,34.90
+478,"Cape Girardeau, MO—IL",52900,90.70,35.00
+479,"San Marcos, TX",52826,68.90,26.60
+480,"Sierra Vista, AZ",52745,78.40,30.30
+481,"Cartersville, GA",52477,131.10,50.60
+482,"Arroyo Grande--Grover Beach, CA",52000,59.60,23.00
+483,"Lewiston, ID—WA",51924,73.10,28.20
+484,"Cumberland, MD—WV—PA",51899,84.50,32.60
+485,"Lompoc, CA",51509,27.70,10.70
+486,"Hinesville, GA",51456,80.70,31.10
+487,"Uniontown--Connellsville, PA",51370,100.60,38.80
+488,"Casa Grande, AZ",51331,57.70,22.30
+489,"Villas, NJ",51291,87.70,33.90
+490,"Monroe, MI",51240,83.10,32.10
+491,"Brunswick, GA",51024,112.40,43.40
+492,"Danville, IL",50996,77.20,29.80
+493,"Chambersburg, PA",50887,96.80,37.40
+494,"Grants Pass, OR",50520,70.40,27.20
+495,"New Bern, NC",50503,112.40,43.40
+496,"Grand Island, NE",50440,72.90,28.10
+497,"Pascagoula, MS",50428,102.40,39.50
